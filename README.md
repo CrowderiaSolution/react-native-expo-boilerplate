@@ -5,4 +5,4 @@
 [![GitHub closed issues](https://img.shields.io/github/issues-closed/CrowderiaSolution/react-native-boilerplate.svg?style=flat-square)](https://github.com/CrowderiaSolution/react-native-boilerplate/issues-closed)
 [![GitHub pull requests](https://img.shields.io/github/issues-pr/CrowderiaSolution/react-native-boilerplate.svg?style=flat-square)](https://github.com/CrowderiaSolution/react-native-boilerplate/issues-pr)
 
-![alt text](/docs/rnsk-logo.jpg "React Native Boiler Plate")
+![alt text](/docs/rnsk-logo.png "React Native Boiler Plate")
