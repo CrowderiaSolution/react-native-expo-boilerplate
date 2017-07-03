@@ -38,3 +38,20 @@ This Boiler Plate Kit helps you get started with React Native. It contains a bun
 
 | Feature | Summary |
 | --- | --- |
+
+---
+
+## Getting Started
+
+---
+
+## The API & testing out authentication
+We've created a quick little "API server" on [Google's Firebase Platform](https://firebase.google.com/). You can get your own API up and running within minutes too:
+
+1. Signup for a [Firebase account](https://firebase.google.com/)
+1. Create a new project - eg. "React Native Starter App"
+1. Turn on email/password __Authentication__
+
+---
+
+## Understanding the File Structure
