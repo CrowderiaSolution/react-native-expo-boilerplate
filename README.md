@@ -68,28 +68,28 @@ crowd-react-native-template
 └───helpers
 │   
 └───src
-|   │   index.js
+│   │   index.js
 │   │   Root.js
-|   |
+│   │ 
 │   └───routes
 │       │   index.js
 │       │  
-|       commons
+│       commons
 │       │   index.js
 │       │ 
-|       redux
+│       redux
 │       │   index.js
 │       │ 
-|       screens
+│       screens
 │       │   index.js
 │       │ 
-|
-|   .babelrc
-|   .eslintrc
-|   .editorconfig
-|   App.js
-|   app.json
-|   jsconfig.json
+│ 
+│   .babelrc
+│   .eslintrc
+│   .editorconfig
+│   App.js
+│   app.json
+│   jsconfig.json
 │   package.json
 │   README.md   
 
