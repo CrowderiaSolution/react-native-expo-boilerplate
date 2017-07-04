@@ -22,7 +22,7 @@ This Boiler Plate Kit helps you get started with React Native. It contains a bun
    1. [Understanding the File Structure](#understanding-the-file-structure)
    1. [Common Components](/docs/component.md)
    1. [Opinions Guiding this Project](/docs/opinions.md)
-1. **Using RNSK**
+1. **Using Template**
    1. [Getting Up and Running with Sample](#getting-started)
    1. [Renaming the App from New](/docs/renaming.md)
    1. [Routing / Navigating](/src/navigation/README.md)
@@ -94,3 +94,5 @@ crowd-react-native-template
 │   README.md   
 
 ```
+
+![alt text](/docs/powerdby.png "Powerd by crowdLab")
