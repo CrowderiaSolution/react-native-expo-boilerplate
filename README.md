@@ -54,6 +54,7 @@ This Boiler Plate Kit helps you get started with React Native. It contains a bun
 | [Redux Promise Middleware](https://github.com/pburtchaell/redux-promise-middleware) | Redux middleware for resolving and rejecting promises with conditional optimistic updates |
 | [Redux Form](http://redux-form.com/6.8.0/) | The best way to manage your form state in Redux | 
 | [Moment](https://momentjs.com/) | Parse, validate, manipulate, and display dates and times in JavaScript. |
+|  |  |
 | Boilerplate | An example directory/file structure I've found useful for scaling apps <br><br>[Learn more &rarr;](#understanding-the-file-structure) |
 
 ---
