@@ -56,35 +56,21 @@ We've created a quick little "API server" on [Google's Firebase Platform](https:
 
 ## Understanding the File Structure
 
-.. code::
-.
-|-- ContentStore
-|   |-- de-DE
-|   |   |-- art.mshc
-|   |   |-- artnoloc.mshc
-|   |   |-- clientserver.mshc
-|   |   |-- noarm.mshc
-|   |   |-- resources.mshc
-|   |   `-- windowsclient.mshc
-|   `-- en-US
-|       |-- art.mshc
-|       |-- artnoloc.mshc
-|       |-- clientserver.mshc
-|       |-- noarm.mshc
-|       |-- resources.mshc
-|       `-- windowsclient.mshc
-`-- IndexStore
-    |-- de-DE
-    |   |-- art.mshi
-    |   |-- artnoloc.mshi
-    |   |-- clientserver.mshi
-    |   |-- noarm.mshi
-    |   |-- resources.mshi
-    |   `-- windowsclient.mshi
-    `-- en-US
-        |-- art.mshi
-        |-- artnoloc.mshi
-        |-- clientserver.mshi
-        |-- noarm.mshi
-        |-- resources.mshi
-        `-- windowsclient.mshi
+```
+project
+│   README.md
+│   file001.txt    
+│
+└───folder1
+│   │   file011.txt
+│   │   file012.txt
+│   │
+│   └───subfolder1
+│       │   file111.txt
+│       │   file112.txt
+│       │   ...
+│   
+└───folder2
+    │   file021.txt
+    │   file022.txt
+```
