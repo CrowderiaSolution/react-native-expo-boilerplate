@@ -38,6 +38,23 @@ This Boiler Plate Kit helps you get started with React Native. It contains a bun
 
 | Feature | Summary |
 | --- | --- |
+| [Expo](https://docs.expo.io/versions/v18.0.0/sdk/index.html) | The Expo SDK provides access to system functionality such as contacts, camera, location for Expo apps.  <br><br>['How to' Guide &rarr;](https://blog.expo.io/updating-your-project-for-the-exponent-expo-name-change-67aee72c4e2e#.260eg23v7) |
+| [Redux](https://github.com/reactjs/react-redux) | A predictable state container - Helping you write applications that behave consistently and run in different environments. |
+| [React Native Router Flux](https://github.com/aksonov/react-native-router-flux) | Router for React Native based on new React Native Navigation API. <br><br>['How to' Guide &rarr;](/src/navigation/README.md)|
+| [axios](https://github.com/mzabriskie/axios) | Promise based HTTP client for the browser and node.js | 
+| [Date Pckier](https://www.npmjs.com/package/react-native-modal-datetime-picker) | A declarative closs-platform react-native datetime-picker. |
+| [Sidebar / Hamburger Menu](https://github.com/react-native-community/react-native-side-menu) | ... |
+| [TextInput Effects](https://github.com/halilb/react-native-textinput-effects) | Text inputs with custom label and icon animations for iOS and android. Built with react native and inspired by Codrops |
+| [React Native Elements](https://github.com/react-native-community/react-native-elements) | Cross Platform React Native UI Toolkit. |
+| [Styled Components](https://www.npmjs.com/package/styled-components) | Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress 💅 |
+| [Google Analytics](https://github.com/idehub/react-native-google-analytics-bridge) | Shows how to track screen views (includes both a 'debug' mode tracker as well as 'release' mode so that data doesn't get obfuscated). <br><br>[Setup Guide &rarr;](/docs/google-analytics.md) |
+| [React Native Vector Icons](https://github.com/oblador/react-native-vector-icons) | Easily use icons from a wide range of icon libraries, it's as simple as importing the icon font and then `<Icon name={'ios-alert-outline'} size={50} color={"#CCC"} />`. |
+| Component Style Guide | A bunch of elements and components to get you started - styled headings, buttons, list rows, alerts etc. |
+| Code Linting / Code Style Guide | We're using [Airbnb's](https://github.com/airbnb/javascript) JS/React Style Guide with ESLint linting. <br><br>[Get started with linting for React Native &rarr;](https://medium.com/pvtl/linting-for-react-native-bdbb586ff694) |
+| [Redux Promise Middleware](https://github.com/pburtchaell/redux-promise-middleware) | Redux middleware for resolving and rejecting promises with conditional optimistic updates |
+| [Redux Form](http://redux-form.com/6.8.0/) | The best way to manage your form state in Redux | 
+| [Moment](https://momentjs.com/) | Parse, validate, manipulate, and display dates and times in JavaScript. |
+| Boilerplate | An example directory/file structure I've found useful for scaling apps <br><br>[Learn more &rarr;](#understanding-the-file-structure) |
 
 ---
 
