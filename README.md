@@ -5,7 +5,7 @@
 [![GitHub closed issues](https://img.shields.io/github/issues-closed/CrowderiaSolution/react-native-boilerplate.svg?style=flat-square)](https://github.com/CrowderiaSolution/react-native-boilerplate/issues-closed)
 [![GitHub pull requests](https://img.shields.io/github/issues-pr/CrowderiaSolution/react-native-boilerplate.svg?style=flat-square)](https://github.com/CrowderiaSolution/react-native-boilerplate/issues-pr)
 
-![alt text](/docs/reacttemp.png "React Native Boiler Plate")
+![- React Native](/docs/reacttemp.png "React Native Boiler Plate")
 
 # React Native Sample Project
 
@@ -95,4 +95,4 @@ crowd-react-native-template
 
 ```
 
-![alt text](/docs/powerdby.png "Powerd by crowdLab")
+![- PowerdBy](/docs/poweredBy.png "Powerd by crowdLab")
