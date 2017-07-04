@@ -57,20 +57,40 @@ We've created a quick little "API server" on [Google's Firebase Platform](https:
 ## Understanding the File Structure
 
 ```
-project
-│   README.md
-│   file001.txt    
+crowd-react-native-template 
 │
-└───folder1
-│   │   file011.txt
-│   │   file012.txt
-│   │
-│   └───subfolder1
-│       │   file111.txt
-│       │   file112.txt
-│       │   ...
+└───assets
+│   │   fonts
+│   │   icons
 │   
-└───folder2
-    │   file021.txt
-    │   file022.txt
+└───constants
+│   
+└───helpers
+│   
+└───src
+|   │   index.js
+│   │   Root.js
+|   |
+│   └───routes
+│       │   index.js
+│       │  
+|       commons
+│       │   index.js
+│       │ 
+|       redux
+│       │   index.js
+│       │ 
+|       screens
+│       │   index.js
+│       │ 
+|
+|   .babelrc
+|   .eslintrc
+|   .editorconfig
+|   App.js
+|   app.json
+|   jsconfig.json
+│   package.json
+│   README.md   
+
 ```
