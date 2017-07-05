@@ -62,6 +62,8 @@ This Boiler Plate Kit helps you get started with React Native. It contains a bun
 
 ---
 
+For Clear and clean code, we use [EsLint](/project-template/.eslintrc) and Vscode configaration [Editor Configaration](/project-template/.editorconfig)
+
 ## The API & testing out authentication
 We've created a quick little "API server" on [Google's Firebase Platform](https://firebase.google.com/). You can get your own API up and running within minutes too:
 
