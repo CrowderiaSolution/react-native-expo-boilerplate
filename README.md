@@ -63,7 +63,18 @@ This Boiler Plate Kit helps you get started with React Native. It contains a bun
 
 | Feature | Summary |
 | --- | --- |
-| Login | using crowdAuth |
+| Language feature | translate |
+| User auth and profile management | using crowdAuth |
+| Map | Map managemnet |
+| Chat | Basic chat funtionalaies |
+| Empty Data Set Image Generator | Add 'No data' images |
+| Form Effects  | With common form validation |
+| Menu Control | Menu controll with tab and segments |
+| SVG Processing hud | Common Loader | 
+| Calendar | Calendar and date management with time |
+| Social Media | Share Content |
+| Image Manipulation | crop, pick and shape options |
+| UI Tips  | For help disck for users |
 
 ---
 
