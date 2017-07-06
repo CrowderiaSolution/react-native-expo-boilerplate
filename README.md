@@ -65,6 +65,8 @@ This Boiler Plate Kit helps you get started with React Native. It contains a bun
 | --- | --- |
 | Language feature | translate |
 | User auth and profile management | using crowdAuth |
+| Api Manager | Api Services managemnet and error handler |
+| Theme | App theme, color chnages |
 | Map | Map managemnet |
 | Chat | Basic chat funtionalaies |
 | Empty Data Set Image Generator | Add 'No data' images |
