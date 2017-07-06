@@ -34,9 +34,9 @@ This Boiler Plate Kit helps you get started with React Native. It contains a bun
 
 ---
 
-## Features
+## Third party libraries (npm package)
 
-| Feature | Summary |
+| library | Summary |
 | --- | --- |
 | [Expo](https://docs.expo.io/versions/v18.0.0/sdk/index.html) | The Expo SDK provides access to system functionality such as contacts, camera, location for Expo apps.  <br><br>['How to' Guide &rarr;](https://blog.expo.io/updating-your-project-for-the-exponent-expo-name-change-67aee72c4e2e#.260eg23v7) |
 | [Redux](https://github.com/reactjs/react-redux) | A predictable state container - Helping you write applications that behave consistently and run in different environments. |
@@ -56,6 +56,13 @@ This Boiler Plate Kit helps you get started with React Native. It contains a bun
 | Component Style Guide | A bunch of elements and components to get you started - styled headings, buttons, list rows, alerts etc. |
 | Code Linting / Code Style Guide | We're using [Airbnb's](https://github.com/airbnb/javascript) JS/React Style Guide with ESLint linting. <br><br>[Get started with linting for React Native &rarr;](https://medium.com/pvtl/linting-for-react-native-bdbb586ff694) |
 | Boilerplate | An example directory/file structure I've found useful for scaling apps <br><br>[Learn more &rarr;](#understanding-the-file-structure) |
+
+---
+
+##Feature (Common modules)
+| Feature | Summary |
+| --- | --- |
+| Login | using crowdAuth |
 
 ---
 
@@ -102,13 +109,11 @@ crowd-react-native-template
 │   │   Root.js
 │   │ 
 │   └───routes
-│       │   index.js
 │       │  
 │       commons
 │       │   index.js
 │       │ 
 │       redux
-│       │   index.js
 │       │ 
 │       screens
 │       │   index.js
