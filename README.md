@@ -29,7 +29,7 @@ This Boiler Plate Kit helps you get started with React Native. It contains a bun
    1. [Using Google Analytics](/docs/google-analytics.md)
    1. [Interacting with the Firebase API](https://firebase.google.com/docs/database/web/start)
    1. [Testing](/docs/testing.md)
-1. [Contributing](/docs/contributing.md)
+1. [Contributing](/docs/poweredBy.png)
 1. [Licence](LICENSE)
 
 ---
@@ -68,9 +68,14 @@ For Clear and clean code, we use [EsLint](/project-template/.eslintrc) and Vscod
 ## The API & testing out authentication
 We've created a quick little "API server" on [Google's Firebase Platform](https://firebase.google.com/). You can get your own API up and running within minutes too:
 
-1. Signup for a [Firebase account](https://firebase.google.com/)
+1. Signup for a [Crowderia account](https://auth.crowderia.com/)
 1. Create a new project - eg. "React Native Starter App"
 1. Turn on email/password __Authentication__
+
+---
+
+## The API & testing out authentication
+We've created a quick little "API server" on [Crowderia Auth Platform](https://auth.crowderia.com/). You can get demo API up and running within minutes too.
 
 ---
 
