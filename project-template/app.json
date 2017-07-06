@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "project-template",
-    "description": "An empty new project",
+    "description": "For easy use this is the sample project of react native, mobile development using javascript",
     "slug": "project-template",
     "privacy": "public",
     "sdkVersion": "18.0.0",

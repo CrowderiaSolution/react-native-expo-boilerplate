@@ -47,6 +47,7 @@ This Boiler Plate Kit helps you get started with React Native. It contains a bun
 | [TextInput Effects](https://github.com/halilb/react-native-textinput-effects) | Text inputs with custom label and icon animations for iOS and android. Built with react native and inspired by Codrops |
 | [React Native Elements](https://github.com/react-native-community/react-native-elements) | Cross Platform React Native UI Toolkit. |
 | [Styled Components](https://www.npmjs.com/package/styled-components) | Visual primitives for the component age. Use the best bits of ES6 and CSS to style your apps without stress 💅 |
+| [EStyleSheet](https://github.com/vitalets/react-native-extended-stylesheet) | Drop-in replacement of React Native StyleSheet with media-queries, variables, dynamic themes, relative units, percents, math operations, scaling and other styling stuff. |
 | [Google Analytics](https://github.com/idehub/react-native-google-analytics-bridge) | Shows how to track screen views (includes both a 'debug' mode tracker as well as 'release' mode so that data doesn't get obfuscated). <br><br>[Setup Guide &rarr;](/docs/google-analytics.md) |
 | [Vector Icons](https://github.com/oblador/react-native-vector-icons) | React Native Vector Icons, Easily use icons from a wide range of icon libraries, it's as simple as importing the icon font and then `<Icon name={'ios-alert-outline'} size={50} color={"#CCC"} />`. |
 | [Redux Promise Middleware](https://github.com/pburtchaell/redux-promise-middleware) | Redux middleware for resolving and rejecting promises with conditional optimistic updates |
@@ -79,12 +80,17 @@ We've created a quick little "API server" on [Google's Firebase Platform](https:
 crowd-react-native-template 
 │
 └───assets
-│   │   fonts
-│   │   icons
+│   │   fonts //font tff files
+│   │   icons //png icon files
 │   
 └───constants
+│   │   api.js
+│   │   Thene.js
+│   │   config.js
 │   
 └───helpers
+│   │   cachedFonts.js
+│   │   index.js
 │   
 └───src
 │   │   index.js
