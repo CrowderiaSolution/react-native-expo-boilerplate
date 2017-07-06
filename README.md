@@ -15,12 +15,12 @@ This Boiler Plate Kit helps you get started with React Native. It contains a bun
 
 ## Docs
 
-1. [Features](#features)
+1. [Features](#Third-party-libraries)
 1. **Before you start**
    1. [Getting Started with React Native](/docs/react-native.md)
    1. [React Native Quick Tips](/docs/quick-tips.md)
    1. [Understanding the File Structure](#understanding-the-file-structure)
-   1. [Common Components](/docs/component.md)
+   1. [Common Components](#Common-modules)
    1. [Opinions Guiding this Project](/docs/opinions.md)
 1. **Using Template**
    1. [Getting Up and Running with Sample](#getting-started)
@@ -34,7 +34,7 @@ This Boiler Plate Kit helps you get started with React Native. It contains a bun
 
 ---
 
-## Third party libraries (npm package)
+## Third party libraries
 
 | library | Summary |
 | --- | --- |
@@ -59,7 +59,7 @@ This Boiler Plate Kit helps you get started with React Native. It contains a bun
 
 ---
 
-## Feature (Common modules)
+## Common modules
 
 | Feature | Summary |
 | --- | --- |
