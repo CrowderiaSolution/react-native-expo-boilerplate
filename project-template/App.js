@@ -1,7 +1,8 @@
 import React from 'react';
 import { AppLoading } from 'expo';
 import EStyleSheet from 'react-native-extended-stylesheet';
-import { StyleSheet, Text, View } from 'react-native';
+
+import Root from './src/Root';
 
 import { Colors } from './constants/Theme';
 import { fontAssets } from './helpers';
@@ -27,18 +28,7 @@ export default class App extends React.Component {
       return <AppLoading />;
     }
     return (
-      <View style={styles.container}>
-        <Text>Hellow Crowderia!</Text>
-      </View>
+      <Root />
     );
   }
 }
-
-const styles = StyleSheet.create({
-  container: {
-    flex: 1,
-    backgroundColor: '#fff',
-    alignItems: 'center',
-    justifyContent: 'center',
-  },
-});
