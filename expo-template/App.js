@@ -3,7 +3,7 @@ import { StyleSheet, Text, View } from 'react-native';
 import EStyleSheet from 'react-native-extended-stylesheet';
 import { AppLoading } from 'expo';
 
-import { HomeScreen } from './src/screens';
+import Root from './src/Root';
 
 import { Colors } from './constants/Theme';
 import { fontAssets } from './helpers';
@@ -29,6 +29,6 @@ export default class App extends Component {
     if (!this.state.fontLoaded) {
       return <AppLoading />;
     }
-    return <HomeScreen />
+    return <Root />
   }
 }

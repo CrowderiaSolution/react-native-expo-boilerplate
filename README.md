@@ -41,6 +41,7 @@ This Boiler Plate Kit helps you get started with React Native. It contains a bun
 | [Expo](https://docs.expo.io/versions/v18.0.0/sdk/index.html) | The Expo SDK provides access to system functionality such as contacts, camera, location for Expo apps.  <br><br>['How to' Guide &rarr;](https://blog.expo.io/updating-your-project-for-the-exponent-expo-name-change-67aee72c4e2e#.260eg23v7) |
 | [Redux](https://github.com/reactjs/react-redux) | A predictable state container - Helping you write applications that behave consistently and run in different environments. |
 | [Router Flux](https://github.com/aksonov/react-native-router-flux) | Router for React Native based on new React Native Navigation API. <br><br>['How to' Guide &rarr;](/src/navigation/README.md)|
+| [Navigators](https://reactnavigation.org) | Let's use React Navigation to build a simple chat application for Android and iOS. |
 | [axios](https://github.com/mzabriskie/axios) | Promise based HTTP client for the browser and node.js | 
 | [Date Pckier](https://www.npmjs.com/package/react-native-modal-datetime-picker) | A declarative closs-platform react-native datetime-picker. |
 | [Sidebar / Hamburger Menu](https://github.com/react-native-community/react-native-side-menu) | ... |
