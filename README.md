@@ -112,7 +112,7 @@ crowd-react-native-template
 │   
 └───constants
 │   │   api.js
-│   │   Thene.js
+│   │   Theme.js
 │   │   config.js
 │   
 └───helpers
@@ -124,6 +124,8 @@ crowd-react-native-template
 │   │   Root.js
 │   │ 
 │   └───routes
+│       │   HomeNavigator.js
+│       │   Navigator.js
 │       │  
 │       commons
 │       │   index.js
@@ -132,7 +134,18 @@ crowd-react-native-template
 │       │ 
 │       screens
 │       │   index.js
-│       │ 
+│       │   home
+│       │     └───components
+│       │         │     styles
+│       │         │     └───DataList.js
+│       │         │     │ 
+│       │         │     DataList.js
+│       │         │
+│       │         styles
+│       │         │
+│       │         HomeScreen.js
+│       │         │
+│       │         index.js
 │ 
 │   .babelrc
 │   .eslintrc
