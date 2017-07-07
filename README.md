@@ -25,7 +25,7 @@ This Boiler Plate Kit helps you get started with React Native. It contains a bun
 1. **Using Template**
    1. [Getting Up and Running with Sample](#getting-started)
    1. [Renaming the App from New](/docs/renaming.md)
-   1. [Routing / Navigating](/src/navigation/README.md)
+   1. [Routing / Navigating](https://reactnavigation.org)
    1. [Using Google Analytics](/docs/google-analytics.md)
    1. [Interacting with the Firebase API](https://firebase.google.com/docs/database/web/start)
    1. [Testing](/docs/testing.md)
