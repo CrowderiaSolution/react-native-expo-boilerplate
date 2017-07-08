@@ -107,13 +107,13 @@ We've created a quick little "API server" on [Crowderia Auth Platform](https://a
 crowd-react-native-template 
 │
 └───assets
-│   │   fonts //font tff files
-│   │   icons //png icon files
+│   │   fonts
+│   │   icons
 │   
 └───constants
 │   │   api.js
 │   │   Theme.js
-│   │   config.js
+│   │   consts.js
 │   
 └───helpers
 │   │   cachedFonts.js
@@ -128,24 +128,49 @@ crowd-react-native-template
 │       │   Navigator.js
 │       │  
 │       commons
+│       │   styles
+│       │   └───LoadingScreen.js
 │       │   index.js
+│       │   LoadingScreen.js
+│       │   TextInputWithValidations.js
 │       │ 
 │       redux
+│       │   reducer.js
+│       │   store.js
 │       │ 
 │       screens
-│       │   index.js
-│       │   home
-│       │     └───components
-│       │         │     styles
-│       │         │     └───DataList.js
-│       │         │     │ 
-│       │         │     DataList.js
-│       │         │
-│       │         styles
-│       │         │
-│       │         HomeScreen.js
-│       │         │
-│       │         index.js
+│          index.js
+│          home
+│          │  └───components
+│          │      │     styles
+│          │      │     └───DataList.js
+│          │      │     DataList.js
+│          │      │
+│          │      styles
+│          │      │
+│          │      HomeScreen.js
+│          │      index.js
+│          │      
+│          addView
+│          │  └───components
+│          │      │     styles
+│          │      │     └───addViewForm.js
+│          │      │     addViewForm.js
+│          │      │     index.js
+│          │      │
+│          │      styles
+│          │      └───addViewScreen.js
+│          │      addViewScreen.js
+│          │      index.js
+│          │      validations.js
+│          │ 
+│          Notification
+│          │      NotificationScreen.js
+│          │      index.js
+│          │ 
+│          Profile
+│          │      ProfileScreen.js
+│          │      index.js
 │ 
 │   .babelrc
 │   .eslintrc
