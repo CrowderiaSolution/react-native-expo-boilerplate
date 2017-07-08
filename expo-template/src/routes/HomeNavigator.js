@@ -1,6 +1,9 @@
 import React from 'react';
 import { TabNavigator } from 'react-navigation';
-import { Entypo } from '@expo/vector-icons';
+import { Entypo, MaterialIcons } from '@expo/vector-icons';
+import Touchable from '@appandflow/touchable';
+import styled from 'styled-components/native';
+
 import {
   HomeScreen,
   NotificationScreen,
@@ -9,6 +12,10 @@ import {
 
 import { Colors } from '../../constants/Theme';
 
+const AddButton = styled(Touchable) `
+  marginRight: 10;
+`;
+
 const NavbarDefaultStyle = {
   backgroundColor: Colors.greenColor,
 };
@@ -16,9 +23,18 @@ const NavbarDefaultStyle = {
 export default TabNavigator({
   Home: {
     screen: HomeScreen,
-    navigationOptions: () => ({
+    navigationOptions: ({ navigation }) => ({
       title: 'Home',
       headerStyle: NavbarDefaultStyle,
+      headerRight: (
+        <AddButton feedback="opacity" onPress={() => navigation.navigate('AddView')}>
+          <MaterialIcons
+            name="add-circle"
+            size={30}
+            color="#fff"
+          />
+        </AddButton>
+      ),
       tabBarIcon: ({ tintColor }) => (
         <Entypo name="home" size={25} color={tintColor} />
       ),

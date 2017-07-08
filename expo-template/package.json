@@ -6,6 +6,7 @@
   "private": true,
   "main": "node_modules/expo/AppEntry.js",
   "dependencies": {
+    "@appandflow/touchable": "^1.1.1",
     "axios": "^0.16.2",
     "expo": "^18.0.4",
     "react": "16.0.0-alpha.12",
@@ -15,7 +16,8 @@
     "react-redux": "^5.0.5",
     "redux": "^3.7.1",
     "redux-logger": "^3.0.6",
-    "redux-promise-middleware": "^4.3.0"
+    "redux-promise-middleware": "^4.3.0",
+    "styled-components": "^2.1.1"
   },
   "devDependencies": {
     "eslint-config-equimper": "^2.1.2"
