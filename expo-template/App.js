@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import { StyleSheet, Text, View } from 'react-native';
 import EStyleSheet from 'react-native-extended-stylesheet';
 import { AppLoading } from 'expo';
 
@@ -29,6 +28,6 @@ export default class App extends Component {
     if (!this.state.fontLoaded) {
       return <AppLoading />;
     }
-    return <Root />
+    return <Root />;
   }
 }
