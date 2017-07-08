@@ -1,4 +1,5 @@
 import { combineReducers } from 'redux';
+import { reducer as form } from 'redux-form';
 
 import {
   HomeReducer,
@@ -6,4 +7,5 @@ import {
 
 export default combineReducers({
   home: HomeReducer,
+  form,
 });
