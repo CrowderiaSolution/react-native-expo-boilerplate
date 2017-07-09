@@ -7,6 +7,6 @@ export const APP = {
     }
     return 'http://localhost:3000/api';
   },
-  FACEBOOK_ID: '14126xxxxxxxxxx',
-  GOOGLE_CLIENT_ID: '729744xxxxxx-sko0a80gobkoqvfuxxxxxxx.apps.googleusercontent.com',
+  FACEBOOK_ID: '141264xxxxx',
+  GOOGLE_CLIENT_ID: '72974433asdas.apps.googleusercontent.com',
 };
