@@ -16,6 +16,8 @@ export const Colors = {
   orangeBitDarkColor: '#d35400',
   yellowColor: '#f1c40f',
   yellowBitDarkColor: '#f39c12',
+  signIn: '#384259',
+  signUp: '#2ecc71',
 };
 
 export const Fonts = {

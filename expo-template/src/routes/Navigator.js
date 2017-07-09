@@ -1,9 +1,10 @@
-import React from 'react';
-import { StackNavigator } from 'react-navigation';
-import HomeNavigator from './HomeNavigator';
 import styled from 'styled-components/native';
 import { MaterialIcons } from '@expo/vector-icons';
 import Touchable from '@appandflow/touchable';
+
+import React from 'react';
+import { StackNavigator } from 'react-navigation';
+import HomeNavigator from './HomeNavigator';
 
 import {
   AddViewScreen,
