@@ -11,6 +11,10 @@
 
 This Boiler Plate Kit helps you get started with React Native. It contains a bunch of helpful components, building blocks and basic structure to allow you to jump straight into building an app.
 
+Before you use the app set your app facebook and google clientid to `constent/consts.js` 
+
+![ScreenShot](/screen_shot_login.png "React Native Starter App Login")
+
 ---
 
 ## Docs
