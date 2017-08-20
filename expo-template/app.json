@@ -4,7 +4,7 @@
     "description": "For easy use this is the sample project of react native, mobile development using javascript",
     "slug": "expo-template",
     "privacy": "public",
-    "sdkVersion": "18.0.0",
+    "sdkVersion": "20.0.0",
     "version": "1.0.0",
     "orientation": "portrait",
     "primaryColor": "#cccccc",
