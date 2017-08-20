@@ -13,7 +13,7 @@ This Boiler Plate Kit helps you get started with React Native. It contains a bun
 
 Before you use the app set your app facebook and google clientid to `constent/consts.js` 
 
-![ScreenShot](docs/screen_shot_login.png "React Native Starter App Login")
+![ScreenShot](/docs/screen_shot_login.png "React Native Starter App Login")
 
 ---
 
